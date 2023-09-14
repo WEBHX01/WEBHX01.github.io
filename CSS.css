@@ -7,3 +7,16 @@ h1.Welcome {
   margin-left: 400px;
   margin-right: 400px;
 }
+p.in {
+  font-style: oblique;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  text-align: center;
+  color: black;
+  margin-left: 400px;
+  margin-right: 400px;
+  font-size: large;
+  font-weight: 500;
+}
+img.main {
+  align-self: center;
+}
